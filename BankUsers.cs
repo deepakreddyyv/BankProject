@@ -8,7 +8,6 @@ namespace BankProject
     {
         private int totalUsers;
         private Bank[] customers;
-        private ArrayList AccountNumbers = new ArrayList();
         public BankUsers(int users)
         {
             this.totalUsers = users;
